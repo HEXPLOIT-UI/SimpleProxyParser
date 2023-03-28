@@ -10,3 +10,5 @@ How do I start the program?
   - Clone project into your IDE or download last release file
   - If you have downloaded the program, run the start.bat file and the proxies will automatically 
   appear in the Proxies folder
+  
+If you cannot start the program, open the start.bat file and replace the first word "java" with the path to the java.exe version 8 file
